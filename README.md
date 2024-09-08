@@ -111,7 +111,6 @@ This architecture enables the application to handle multiple concurrent log requ
 
 ### Arquitectural Diagram
 ![Architectural Diagram](images/architecturalDiagram.png)
-### Diagram Description:
 
 ## Architectural Diagram Description
 

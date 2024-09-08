@@ -158,8 +158,8 @@ This architecture provides a scalable and distributed solution for handling mult
     * Browser:
         ![Browser](images/browser.png)
 
-    * You can also open a browser and go to the following [link](http://git-scm.com/) (the url can change over time) to access the project on AWS:
-        ![Browser](images/browser.png)
+    * You can also open a browser and go to the following [link](http://ec2-100-27-219-213.compute-1.amazonaws.com:8080/index.html) (the url can change over time) to access the project on AWS:
+        ![Browser](images/aws.png)
 
 ## Built With
 
